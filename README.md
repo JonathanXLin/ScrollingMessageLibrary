@@ -1,6 +1,6 @@
 # ScrollingMessages
 
-ScrollingMessages is an Arduino library for the MAX7291 8x8 LED Matrix that can write scrolling text.
+ScrollingMessages is an Arduino library for the MAX7291 8x8 LED Matrix that writes scrolling text.
 
 ## Installation
 
